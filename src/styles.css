@@ -383,15 +383,6 @@ h3 {
 
 
 
-@media only screen and (max-width: 1000px){
-    .project-container {
-        display: flex;
-        flex-wrap: wrap;
-        }
-    }
-
-
-
 .project_image {
    margin: 5px;
     width: 200px;
@@ -426,6 +417,11 @@ hamburger:focus{
     }
 
 
+ .honey-pot{
+    display: none;
+    }
+
+
 
 @media only screen and (max-width: 1000px){
     .hamburger {
@@ -440,7 +436,11 @@ hamburger:focus{
     ul {
         display: none;
         background-color: #2b2c38;
-        margin: 0px;
+        margin: 10px;
+        }
+
+    li{
+        padding: 10px;
         }
 
    nav {
@@ -452,13 +452,13 @@ hamburger:focus{
   .logo {
      display: none;
       }
+
+
+      .project-container {
+        display: flex;
+        flex-wrap: wrap;
+        }
  }
-
-
-
- .honey-pot{
-    display: none;
-    }
 
 
 
@@ -469,6 +469,11 @@ hamburger:focus{
     }
 
 
+@media only screen and (max-width: 600px){
+    textarea{
+        width: 300px;
+    }
+}
 
 
 
