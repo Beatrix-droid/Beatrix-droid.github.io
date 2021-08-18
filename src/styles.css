@@ -40,7 +40,7 @@
 
 
 section {
-    background-color: white;
+    background-color: #f0f0f4;
     border: solid black 1px;
     font-family: 'Nanum Gothic', sans-serif;
     }
@@ -65,13 +65,14 @@ section {
 
 
 .hero {
-    background-color: #1c1d25;
+    background-color:#1c1d25;
     height: 100 vh;
     color: white;
     font-size: 40px;
     }
 /* vh view port height, so that the section is as big as the window of the browser.
 */
+
 
 footer {
     padding: 80px;
