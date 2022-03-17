@@ -462,6 +462,30 @@ hamburger:focus{
  }
 
 
+.tech-stack{
+  flex-direction: row;
+}
+
+.tech-stack img{
+  margin: 10px;
+}
+
+
+.grid{
+  display: grid;
+  padding: 30px;
+  place-items: center;
+}
+
+.tech-container {
+
+  /* Center child horizontally*/
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
 
 @media only screen and (max-width: 1256px){
   .fractal {
@@ -475,26 +499,3 @@ hamburger:focus{
         width: 300px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
