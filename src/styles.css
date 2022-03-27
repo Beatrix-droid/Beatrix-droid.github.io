@@ -215,7 +215,7 @@ h3 {
    margin: 15px;
     width:200px;
     height:50px;
-    background-color: #ED0800 ;
+    background-color: coral ;
     padding: 7px;
     border-radius: 30px;
     text-align: center;
@@ -235,7 +235,7 @@ h3 {
     margin-left: 40px;
     width:150px;
     height:25px;
-    background-color: #ED0800 ;
+    background-color: coral ;
     padding: 5px;
     border-radius: 20px;
 
@@ -267,9 +267,13 @@ h3 {
 
 
 .fourth-button:hover{
-    background-color: aqua;
+    background-color: coral;
     }
 
+  .nav:hover{
+    background-color: coral;
+
+  }
 
 
 .socials{
@@ -286,7 +290,7 @@ h3 {
 
 
 .Github:hover{
-    background-color: #ED0800;
+    background-color: coral;
     }
 
 
@@ -299,7 +303,7 @@ h3 {
 
 
 .Linkedin:hover{
-    background-color:#ED0800;
+    background-color:coral;
     }
 
 
@@ -313,7 +317,7 @@ h3 {
 
 
 .Free-code-camp:hover{
-    background-color: #ED0800;
+    background-color: coral;
     }
 
 
