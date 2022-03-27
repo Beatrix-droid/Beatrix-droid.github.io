@@ -172,7 +172,7 @@ textarea{
 
 h3 {
     font-size: 20px;
-    font-color: #1c1d25;
+    color: #1c1d25;
     }
 
 
@@ -318,26 +318,11 @@ h3 {
 
 
 
-.heroku{
-    filter: invert(100);
-    padding-top: 10px;
-    padding-bottom: 10px;
-    }
-
-
-
-.heroku:hover{
-    background-color: #ED0800;
-    }
-
-
 
 .container {
     height: 200px;
     position: relative;
     }
-
-
 
 
  .center {
